@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+
+  "@context": "http://schema.org",
+  "@type": "MarryAction",
+   "agent": {
+    "@type": "Person",
+    "name": "Juliano"
+  },
+
+  "object": {
+  "@type": "Person",
+  "name": "Dandara"
+},
+
+"location": {
+  "@type": "PostalAddress",
+  "addressCountry": "BR",
+  "addressLocality": "Pato Branco",
+  "addressRegion": "PR",
+  "postalCode": "85504-060",
+  "streetAddress": "Rua Itapuã, 1588 - Bairro Pinheiros",
+  "telephone": "+554632253434",
+  "email": "clubepinheiros@clubepinheiros.com"
+},
+"participant":{
+  "@type": "Person",
+  "name": "Olidete Rotava",
+  "description": "Cerimonialista e Juíza de Paz"
+
+}
+}
+</script>

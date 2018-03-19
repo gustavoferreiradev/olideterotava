@@ -1,0 +1,100 @@
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.olideterotava.com.br/casamento/flores-casamento/"
+  },
+  "headline": "Como devo escolher as flores do meu casamento?",
+  "articleBody": "Um item importante como este não deve ser negligenciado. Apesar de ser um item caro do universo casamento é, senão o mais, um dos mais, importantes numa festa.
+As flores dão o toque alegre, festivo e de frescor numa festa. Se for de casamento é imprescindível. As flores devem estar de acordo com a personalidade dos noivos, digo noivos, mas sempre quem escolhe é a noiva, são raros os noivos que opinam sobre isso.
+As cores são importantes, elas definem, por muitas vezes, a alegria da festa.
+Tenho visto e feito muitos casamentos em que as noivas optam por uma cerimônia com flores de cor única, normalmente brancas, clássicas.
+5 Flores Brancas:
+Rosas Brancas Orquídeas
+Flores de casamento: Orquídeas
+Gipsofilas
+Flores de casamento: Gipsofilas
+Tupilas
+Flores de casamento: Tulipa
+Alstroemérias
+Flores de casamento: Alstroemérias 
+E para a festa as cores, às vezes um caleidoscópio imenso, com uma grande mistura de flores diferentes com cores diferentes! Pode-se também optar pela mistura de flores, verdes e frutas. Também, dependendo do estilo da festa, os noivos continuam com os mesmos tons da cerimônia na recepção.
+Independente da sua escolha de flores elas devem ser, sempre, as que mais gosta. Lembrando que o que fica, para recordarmos, são as fotos e filmes, por isso a escolha tem que ser sua, para que esta lembrança seja doce!",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.olideterotava.com.br/wp-content/uploads/2017/08/flores.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-08-16T11:06:00-03:00",
+  "dateModified": "2017-08-17T10:50:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Olidete Rotava"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Olidete Rotava",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.olideterotava.com.br/wp-content/uploads/2017/08/logo-olidete-google-rc.png",
+      "width": 600,
+      "height": 60
+    },
+    "description": "Confira como escolher um dos itens mais importantes em um casamento que não deve ser neglicenciado: As flores e dite o tom de sua festa!"
+  }
+
+
+},{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+ [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br",
+     "name": "Home"
+ } 
+ },
+ 
+ {
+    "@type": "ListItem",
+    "position": 2,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br/blog/",
+     "name": "Blog"
+ } 
+ },
+ 
+  {
+    "@type": "ListItem",
+    "position": 3,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br/cerimonialista/casamento/",
+     "name": "Casamento"
+ } 
+ },
+ 
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br/casamento/flores-casamento/",
+     "name": "Como devo escolher as flores do meu casamento?"
+ 
+ } 
+ }
+   
+]
+
+}
+]
+</script>

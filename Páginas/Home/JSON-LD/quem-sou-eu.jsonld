@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Olidete Rotava",
+  "familyName": "Rotava",
+  "birthDate": "1961-02-17",
+  "birthPlace": "Pato Branco",
+  "description": "Eu me chamo Olidete mas as pessoas me chamam de Oli, não as íntimas, todas! E eu gosto. Desde que me casei e lá se vão muitos anos, e, antes disso eu já orbitava pelo mundo dos eventos, acredito que devo ter me encantado, sem saber, desde que fiz o curso de modelo e manequim. De lá para cá muitas coisas aconteceram na minha vida. Me formei, casei, fiz muitos cursos, tive filhos. E neste momento devemos fazer uma pausa para recordar e esclarecer. Com os meus filhos eu comecei a ´inventar´ as festas deles. Sempre diferentes, até o meu último filho nascer. Como os dois mais novos faziam aniversário muito próximos e os amigos foram ficando comuns, a partir dos dois anos do último passei a fazer as festas juntas. Eles sempre pediam o que queriam de tema e eu decorava, fazia o cardápio, fazia os convites, convidava, recebia, enfim fazia tudo. Passei um tempo só estudando e me aprimorando para que pudesse fazer outras coisas relacionadas a isso. Neste momento eu estava auxiliando as amigas a fazer festas, ajudava, contribuía, com meus conhecimentos. Mas, como tudo na vida tem um porém, percebi que já passava a ser, em algumas vezes, exploração, decidi assim começar a cobrar. É claro que tive que buscar mais conhecimento. De lá até hoje muitas coisas mudaram, saíram de moda, voltaram. Mas nada, dentro do cerimonial formal mudou. Até hoje tenho os primeiros clientes e todos os que vieram depois, como amigos, uns mais outros menos, mas com todos tenho uma linda história de vida que se modificaram, mesmo que só um tantinho, com minha colaboração.",
+
+  "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "BR",
+      "addressLocality": "Pato Branco",
+      "addressRegion": "PR",
+      "postalCode": "85501-047",
+      "streetAddress": "Rua Itabira, 1315 - Centro",
+      "email": "oli@olideterotava.com.br",
+      "telephone": "+5546991010133"
+
+  },
+  "sameAs": ["https://www.facebook.com/OlideteRotava/",
+             "https://plus.google.com/b/116002044510661690654/",
+             "https://br.pinterest.com/BruxaOli",
+             "http://g123.com.br/contato/4632245066-olidete-rotava-rua-itabira-1315-apto-301-pato-branco-pr",
+             "https://www.casamentos.com.br/cerimonialista/olidette-rotava--e170925",
+             "https://www.telelistas.net/locais/pr/pato+branco/cerimonial/336462385/olidete+rotava",
+             "https://www.apontador.com.br/local/pr/pato_branco/festas_e_eventos/C412289115512S512F/olidete_rotava.html"
+
+]
+}
+</script>

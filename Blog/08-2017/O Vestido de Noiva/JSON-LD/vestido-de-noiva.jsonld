@@ -1,0 +1,91 @@
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.olideterotava.com.br/casamento/vestido-de-noiva/"
+  },
+  "headline": "Vestido de noiva",
+  "articleBody": "Em idos tempos, quando eu não tinha discernimento das coisas (às vezes ainda não tenho!), sonhava em crescer e me tornar uma princesa. Sonhava com um casamento, um príncipe, um vestido de noiva. Engraçado que nunca sonhava com uma festa e depois de “crescida” eis-me aqui fazendo festas!
+Mas voltemos ao vestido de noiva, parte importante de um planejamento de casamento. E os de hoje são verdadeiramente maravilhosos. Com o tempo ele vem se modificando, não mais usamos os famosos ‘bolos de noiva’, que eram imensos e por vezes nem conseguiam entrar pela nave central do local da cerimônia. Ainda bem que se foram. Hoje o vestido é, e tem, ‘a cara da noiva’ e expressa um modo de vida, o sonho, a praticidade, o preço. Há muitos anos participando disso, às vezes, mais ou menos intensamente, tenho observado muitas coisas interessantes. Na maioria das vezes em que estamos juntas na escolha deste tão importante item descobri que passamos a conhecer, às vezes sem nem mesmo a noiva perceber, a interpretação deste sonho realisticamente. Explico. Três grandes amigas fizeram seus casamentos comigo, digo amigas porque tinha, e tenho, relacionamento com elas antes de ser contratada e na hora da escolha elas solicitaram que eu estivesse junto. É claro que eu fui. E, por pura coincidência, foi o mesmo costureiro.
+A primeira, a mais romântica que as outras, escolheu um vestido de cor, por já ter sido casada, e ele ficou tão belo que até hoje, passados alguns anos e nunca mais ter tido uma noiva “colorida”, marcado na minha memória. Ela ficou romântica na medida certa!
+A segunda chegou dizendo que não queria isso, não queria aquilo, e por pura insistência minha e do costureiro, “experimentou” a nossa sugestão e se rendeu, com algumas modificações. Ela ficou divina!
+A terceira também chegou com a ideia fixa do que queria, provou, sem muito entusiasmo, muitos vestidos e por fim saiu de lá já carregando o vestido, porque não queria que absolutamente ninguém “ousasse” (palavras dela) colocar os olhos nele!
+É muito gratificante “viver” junto com os sonhos e as expectativas de todas estas mulheres que se jogam de cabeça na realização dele, colocando intensamente toda sua energia e repartindo seus anseios com aquela pessoa que participa de tudo, a organizadora e cerimonialista.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.olideterotava.com.br/wp-content/uploads/2017/08/vestido-de-noiva.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-08-16T08:50:00-03:00",
+  "dateModified": "2017-08-15T08:55:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Olidete Rotava"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Olidete Rotava",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.olideterotava.com.br/wp-content/uploads/2017/08/logo-olidete-google-rc.png",
+      "width": 600,
+      "height": 60
+    },
+    "description": "Confira como é ser cerimonialista e participar da escolha de um dos itens mais importantes em um casamento: o vestido de noiva."
+  }
+
+
+},{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+ [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br",
+     "name": "Home"
+ } 
+ },
+ 
+ {
+    "@type": "ListItem",
+    "position": 2,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br/blog/",
+     "name": "Blog"
+ } 
+ },
+ 
+  {
+    "@type": "ListItem",
+    "position": 3,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br/cerimonialista/casamento/",
+     "name": "Casamento"
+ } 
+ },
+ 
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "item":
+    {
+     "@id": "http://www.olideterotava.com.br/casamento/vestido-de-noiva/",
+     "name": "Vestido de noiva"
+ 
+ } 
+ }
+   
+]
+
+}
+]
+</script>

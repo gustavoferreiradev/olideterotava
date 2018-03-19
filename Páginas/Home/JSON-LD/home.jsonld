@@ -1,0 +1,41 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Olidete Rotava",
+  "additionalProperty": "Cerimonialista e Organização de Eventos",
+  "currenciesAccepted": "BRL",
+  "openingHours": "Su,Mo,Tu,We,Th,Fr,Sa 00:00-23:59",
+  "paymentAccepted": "Cash",
+  "priceRange": "$$$",
+  "image": {
+    "@type": "ImageObject",
+     "width": 426,
+     "height": 427,
+     "url": "http://www.olideterotava.com.br/wp-content/uploads/2017/04/Olidete_Rotava-1.jpg"
+
+  },
+  "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "BR",
+      "addressLocality": "Pato Branco",
+      "addressRegion": "PR",
+      "postalCode": "85501-047",
+      "streetAddress": "Rua Itabira, 1315 - Centro",
+      "email": "oli@olideterotava.com.br",
+      "telephone": "+5546991010133"
+
+
+  },
+  "sameAs": ["https://www.facebook.com/OlideteRotava/",
+             "https://plus.google.com/b/116002044510661690654/",
+             "https://br.pinterest.com/BruxaOli",
+             "http://g123.com.br/contato/4632245066-olidete-rotava-rua-itabira-1315-apto-301-pato-branco-pr",
+             "https://www.casamentos.com.br/cerimonialista/olidette-rotava--e170925",
+             "https://www.telelistas.net/locais/pr/pato+branco/cerimonial/336462385/olidete+rotava",
+             "https://www.apontador.com.br/local/pr/pato_branco/festas_e_eventos/C412289115512S512F/olidete_rotava.html"
+
+]
+  }
+  }
+ </script>
